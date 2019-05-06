@@ -161,4 +161,4 @@ Chris Choe - [Github](https://github.com/christopherchoe) / [Twitter](https://tw
 
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+Licence File - [LICENCE.md](https://github.com/bennettdixon/airbnb_clone_v3/LICENCE.md)
